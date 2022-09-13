@@ -21,7 +21,7 @@
 I am a Software Engineer from Turkey.
 
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-senauzun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/senauzun/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-senauzun-white?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/senauzun/)
 - Language and Tools mostly use:
 
 <div>
