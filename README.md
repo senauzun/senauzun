@@ -22,16 +22,18 @@ I am a Software Engineer from Turkey.
 
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-senauzun-white?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/senauzun/)
-- Language and Tools mostly use:
+- Language and tools currently use:
 
 <div>
+  <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" title="Eclipse" alt="Eclipse" width="30" height="30"/>
+  <img src="https://github.com/didierfranc/parse-logo/blob/master/logo.svg" title="Parse" alt="Parse" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="30" height="30"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" **alt="xcode" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30" height="30"/>
 </div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="200"/>
 </div>
